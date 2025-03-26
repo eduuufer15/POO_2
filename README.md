@@ -149,7 +149,4 @@ Thumbs.db
 - [Documentación oficial de Java](https://docs.oracle.com/en/java/javase/)
 - [GitHub: Guía para usar ramas](https://guides.github.com/introduction/flow/)
 
-## 🤝 Contribuir
-
-Si deseas contribuir a este proyecto, haz un **fork** y envía un **pull request**. ¡Será bienvenido cualquier tipo de mejora o sugerencia!
 
