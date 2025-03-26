@@ -1,5 +1,7 @@
 package planeta;
 
+import publicaciones.Publicacion;
+
 public class Programa {
     public static void main(String[] args) {
         Persona persona1 = new Persona("Juan", 30);
