@@ -2,11 +2,11 @@
 
 ## 🚀 Introducción
 
-Este repositorio contiene la implementación de un proyecto en **Java** centrado en la **Programación Orientada a Objetos (POO)**. El objetivo de este proyecto es gestionar información sobre **Planetas**, **Personas**, **Publicaciones** y **Edificios** mediante el uso de clases. Las clases creadas permiten representar y manejar estos objetos de manera eficiente.
+Este repositorio contiene la implementación de un proyecto en **Java** centrado en la **Programación Orientada a Objetos (POO2)**. El objetivo de este proyecto es gestionar información sobre **Planetas**, **Personas**, **Publicaciones** y **Edificios** mediante el uso de clases. Las clases creadas permiten representar y manejar estos objetos de manera eficiente.
 
 ### ¿Por qué es útil?
 
-Este proyecto es útil para comprender y practicar los conceptos fundamentales de la **Programación Orientada a Objetos (POO)** utilizando **Java**. Este proyecto permite experimentar con la creación de clases, la manipulación de atributos y métodos, y la interacción entre objetos.
+Este proyecto es útil para comprender y practicar los conceptos fundamentales de la **Programación Orientada a Objetos (POO2)** utilizando **Java**. Este proyecto permite experimentar con la creación de clases, la manipulación de atributos y métodos, y la interacción entre objetos.
 
 ---
 
@@ -26,7 +26,7 @@ Este proyecto es útil para comprender y practicar los conceptos fundamentales d
 1. **Clona el repositorio**:
    - Utiliza el siguiente comando para clonar el repositorio:
      ```bash
-     git clone https://github.com/tuusuario/POO_2.git
+     git clone https://github.com/eduuufer15/POO_2.git
      ```
 
 2. **Abre el proyecto** en tu IDE favorito:
